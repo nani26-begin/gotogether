@@ -1,11 +1,3 @@
-#Gotogether 
-live app: https://gotogether-50d6e.web.app
-
-_Source code currently not available._
-Absolutely! Here's a **professional, polite, and user-convincing README.md content** for your **GoTogether app**, based on your description (even without the source code). This is written as if you're presenting your project publicly on GitHub or a portfolio, showing off its concept and potential.
-
----
-
 # 🤝 GoTogether – Share Rides, Split Costs, Make Travel Easy
 
 **GoTogether** is a smart travel coordination app designed to help travelers going to the same destination **connect, share rides, and reduce travel costs** — all while making new connections. Whether you're commuting to college, heading to the airport, or planning a trip, GoTogether makes travel more social, economical, and eco-friendly.
@@ -28,8 +20,8 @@ Modern travel is expensive, isolated, and often wasteful. GoTogether solves this
 
 ## 📲 Live App
 
-👉 **[Click here to try GoTogether](#)**
-(*Replace with your actual app link*)
+👉 **[Click here to try live app: (https://gotogether-50d6e.web.app)] **
+
 
 ---
 
